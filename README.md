@@ -1,4 +1,6 @@
-![termsReview Slogan -- One Web. Your Application. Intertwingled Systems.](termsReview_slogan.png)
+![termsReview Slogan -- One Web. Your Application. Intertwingled Systems.](/images/termsReview_slogan.png)
+
+__Do You Have An Idea?__ We legally certify _Verified Original Ideas_<sup>tm</sup> and develop Network Orchestration Platform Industries around them.
 
 #### Persuasive Technology + Intellectual Freedom.
 
