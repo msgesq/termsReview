@@ -1,8 +1,6 @@
 ![termsReview Slogan -- One Web. Your Application. Intertwingled Systems.](/images/termsReview_slogan.png)
 <hr style="border-top: 1px solid #000;"/>
 
-__Do You Have An Idea?__
-
 
 #### Persuasive Technology + Intellectual Freedom.
 
